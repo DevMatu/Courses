@@ -1,0 +1,7 @@
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Interfaces\obj\Debug\Interfaces.pdb

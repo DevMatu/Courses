@@ -1,0 +1,16 @@
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\obj\Debug\net5.0\ejercicio-1.csproj.AssemblyReference.cache
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\obj\Debug\net5.0\ejercicio-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\obj\Debug\net5.0\ejercicio-1.AssemblyInfoInputs.cache
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\obj\Debug\net5.0\ejercicio-1.AssemblyInfo.cs
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\obj\Debug\net5.0\ejercicio-1.csproj.CoreCompileInputs.cache
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\bin\Debug\net5.0\ejercicio-1.exe
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\bin\Debug\net5.0\ejercicio-1.deps.json
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\bin\Debug\net5.0\ejercicio-1.runtimeconfig.json
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\bin\Debug\net5.0\ejercicio-1.runtimeconfig.dev.json
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\bin\Debug\net5.0\ejercicio-1.dll
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\bin\Debug\net5.0\ref\ejercicio-1.dll
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\bin\Debug\net5.0\ejercicio-1.pdb
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\obj\Debug\net5.0\ejercicio-1.dll
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\obj\Debug\net5.0\ref\ejercicio-1.dll
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\obj\Debug\net5.0\ejercicio-1.pdb
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\Unidad 2 - Condicionales\ejercicio-1\obj\Debug\net5.0\ejercicio-1.genruntimeconfig.cache

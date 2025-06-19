@@ -1,0 +1,7 @@
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Colecciones\bin\Debug\Colecciones.exe.config
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Colecciones\bin\Debug\Colecciones.exe
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Colecciones\bin\Debug\Colecciones.pdb
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Colecciones\obj\Debug\Colecciones.csproj.AssemblyReference.cache
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Colecciones\obj\Debug\Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Colecciones\obj\Debug\Colecciones.exe
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Colecciones\obj\Debug\Colecciones.pdb

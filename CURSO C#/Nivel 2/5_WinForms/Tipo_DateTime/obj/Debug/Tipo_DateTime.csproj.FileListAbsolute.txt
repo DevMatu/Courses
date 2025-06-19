@@ -1,0 +1,7 @@
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\WinForms\Tipo_DateTime\bin\Debug\Tipo_DateTime.exe.config
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\WinForms\Tipo_DateTime\bin\Debug\Tipo_DateTime.exe
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\WinForms\Tipo_DateTime\bin\Debug\Tipo_DateTime.pdb
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\WinForms\Tipo_DateTime\obj\Debug\Tipo_DateTime.csproj.AssemblyReference.cache
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\WinForms\Tipo_DateTime\obj\Debug\Tipo_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\WinForms\Tipo_DateTime\obj\Debug\Tipo_DateTime.exe
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\WinForms\Tipo_DateTime\obj\Debug\Tipo_DateTime.pdb

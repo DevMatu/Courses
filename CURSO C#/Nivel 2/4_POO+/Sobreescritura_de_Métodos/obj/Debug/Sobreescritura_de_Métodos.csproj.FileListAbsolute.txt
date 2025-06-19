@@ -1,0 +1,7 @@
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Sobreescritura_de_Métodos\bin\Debug\Sobreescritura_de_Métodos.exe.config
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Sobreescritura_de_Métodos\bin\Debug\Sobreescritura_de_Métodos.exe
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Sobreescritura_de_Métodos\bin\Debug\Sobreescritura_de_Métodos.pdb
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Sobreescritura_de_Métodos\obj\Debug\Sobreescritura_de_Métodos.csproj.AssemblyReference.cache
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Sobreescritura_de_Métodos\obj\Debug\Sobreescritura_de_Métodos.csproj.CoreCompileInputs.cache
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Sobreescritura_de_Métodos\obj\Debug\Sobreescritura_de_Métodos.exe
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\POO+\Sobreescritura_de_Métodos\obj\Debug\Sobreescritura_de_Métodos.pdb

@@ -1,0 +1,5 @@
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\TPFinal_Pecchini\obj\Debug\net5.0\TPFinal_Pecchini.csproj.AssemblyReference.cache
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\TPFinal_Pecchini\obj\Debug\net5.0\TPFinal_Pecchini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\TPFinal_Pecchini\obj\Debug\net5.0\TPFinal_Pecchini.AssemblyInfoInputs.cache
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\TPFinal_Pecchini\obj\Debug\net5.0\TPFinal_Pecchini.AssemblyInfo.cs
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 1\TPFinal_Pecchini\obj\Debug\net5.0\TPFinal_Pecchini.csproj.CoreCompileInputs.cache

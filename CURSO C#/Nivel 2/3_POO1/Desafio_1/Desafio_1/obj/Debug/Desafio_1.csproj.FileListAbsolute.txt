@@ -1,0 +1,7 @@
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\Desafio_1\Desafio_1\bin\Debug\Desafio_1.exe.config
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\Desafio_1\Desafio_1\bin\Debug\Desafio_1.exe
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\Desafio_1\Desafio_1\bin\Debug\Desafio_1.pdb
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\Desafio_1\Desafio_1\obj\Debug\Desafio_1.csproj.AssemblyReference.cache
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\Desafio_1\Desafio_1\obj\Debug\Desafio_1.csproj.CoreCompileInputs.cache
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\Desafio_1\Desafio_1\obj\Debug\Desafio_1.exe
+C:\Users\La Caprichosa\Desktop\CURSO C#\Nivel 2\Desafio_1\Desafio_1\obj\Debug\Desafio_1.pdb

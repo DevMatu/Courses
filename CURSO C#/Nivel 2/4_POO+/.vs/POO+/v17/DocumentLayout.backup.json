@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\La Caprichosa\\Desktop\\CURSO C#\\Nivel 2\\POO\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD01221C-BA46-4812-A81D-22CC2DF5F9D4}|Tipos_de_Clases\\Tipos_de_Clases.csproj|c:\\users\\la caprichosa\\desktop\\curso c#\\nivel 2\\poo\u002B\\tipos_de_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD01221C-BA46-4812-A81D-22CC2DF5F9D4}|Tipos_de_Clases\\Tipos_de_Clases.csproj|solutionrelative:tipos_de_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD01221C-BA46-4812-A81D-22CC2DF5F9D4}|Tipos_de_Clases\\Tipos_de_Clases.csproj|c:\\users\\la caprichosa\\desktop\\curso c#\\nivel 2\\poo\u002B\\tipos_de_clases\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD01221C-BA46-4812-A81D-22CC2DF5F9D4}|Tipos_de_Clases\\Tipos_de_Clases.csproj|solutionrelative:tipos_de_clases\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD01221C-BA46-4812-A81D-22CC2DF5F9D4}|Tipos_de_Clases\\Tipos_de_Clases.csproj|c:\\users\\la caprichosa\\desktop\\curso c#\\nivel 2\\poo\u002B\\tipos_de_clases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD01221C-BA46-4812-A81D-22CC2DF5F9D4}|Tipos_de_Clases\\Tipos_de_Clases.csproj|solutionrelative:tipos_de_clases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD01221C-BA46-4812-A81D-22CC2DF5F9D4}|Tipos_de_Clases\\Tipos_de_Clases.csproj|c:\\users\\la caprichosa\\desktop\\curso c#\\nivel 2\\poo\u002B\\tipos_de_clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD01221C-BA46-4812-A81D-22CC2DF5F9D4}|Tipos_de_Clases\\Tipos_de_Clases.csproj|solutionrelative:tipos_de_clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\La Caprichosa\\Desktop\\CURSO C#\\Nivel 2\\POO\u002B\\Tipos_de_Clases\\Program.cs",
+              "RelativeDocumentMoniker": "Tipos_de_Clases\\Program.cs",
+              "ToolTip": "C:\\Users\\La Caprichosa\\Desktop\\CURSO C#\\Nivel 2\\POO\u002B\\Tipos_de_Clases\\Program.cs",
+              "RelativeToolTip": "Tipos_de_Clases\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:49:14.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\La Caprichosa\\Desktop\\CURSO C#\\Nivel 2\\POO\u002B\\Tipos_de_Clases\\Persona.cs",
+              "RelativeDocumentMoniker": "Tipos_de_Clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\La Caprichosa\\Desktop\\CURSO C#\\Nivel 2\\POO\u002B\\Tipos_de_Clases\\Persona.cs",
+              "RelativeToolTip": "Tipos_de_Clases\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:53:06.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\La Caprichosa\\Desktop\\CURSO C#\\Nivel 2\\POO\u002B\\Tipos_de_Clases\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Tipos_de_Clases\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\La Caprichosa\\Desktop\\CURSO C#\\Nivel 2\\POO\u002B\\Tipos_de_Clases\\Vehiculo.cs",
+              "RelativeToolTip": "Tipos_de_Clases\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:56:43.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\La Caprichosa\\Desktop\\CURSO C#\\Nivel 2\\POO\u002B\\Tipos_de_Clases\\Moto.cs",
+              "RelativeDocumentMoniker": "Tipos_de_Clases\\Moto.cs",
+              "ToolTip": "C:\\Users\\La Caprichosa\\Desktop\\CURSO C#\\Nivel 2\\POO\u002B\\Tipos_de_Clases\\Moto.cs",
+              "RelativeToolTip": "Tipos_de_Clases\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:59:23.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
